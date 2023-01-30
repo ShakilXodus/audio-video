@@ -1,0 +1,13 @@
+body{
+    font-family: 'Itim', cursive;
+}
+
+div{
+    font-size: larger;
+    height: 100px;
+    width: 100px;
+}
+ video{
+    height: 40px;
+    width: 40px;
+ }
